@@ -1,2 +1,2 @@
 # kiwi
-an implementation on column store database
+this is a hobby project. this is my take on a simple in memmory column store database in golang
